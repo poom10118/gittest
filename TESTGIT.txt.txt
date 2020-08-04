@@ -1,4 +1,8 @@
 ทดสอบ01
 
+<<<<<<< HEAD
 TEST ON BRANCH DEVELOP
 TEST MERGE ON MASTER
+=======
+TEST ON BRANCH PRODUCTIONทำไมดึงมาแล้วไม่อัพเดทว่ะ งงฝุดๆ
+>>>>>>> production
