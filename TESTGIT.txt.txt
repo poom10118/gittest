@@ -1,11 +1,15 @@
 ทดสอบ01
 
 TEST ON BRANCH DEVELOP
+<<<<<<< HEAD
 
 add text for commit in develop
 
 add text for commit in commitdev3
 
+=======
+TEST MERGE ON MASTER
+>>>>>>> 723cad9fae3385f56a146d149406ccf25272fba5
 TEST ON BRANCH PRODUCTION
 
 add commit this for git branch "testrebase"
