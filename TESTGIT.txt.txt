@@ -5,3 +5,5 @@ TEST MERGE ON MASTER
 TEST ON BRANCH PRODUCTION
 
 add commit this for git branch "testrebase"
+
+add text to commit 2
