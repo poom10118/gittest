@@ -7,3 +7,5 @@ TEST ON BRANCH PRODUCTION
 add commit this for git branch "testrebase"
 
 add text to commit 2
+
+add text to commit 3
